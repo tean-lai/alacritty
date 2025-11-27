@@ -1,3 +1,6 @@
+[terminal]
+shell = { program = "/opt/homebrew/bin/yash" }
+
 [general]
 live_config_reload = true
 
